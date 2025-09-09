@@ -8,7 +8,7 @@ int main(void) {
         printf("%c", *(str + i));
     }
     printf("\n");
-    printf("Length of string is %ld", str1 - str - 1);
+    printf("Length of string is %ld", str1 - str);
 
     return 0;
 }
