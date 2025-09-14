@@ -1,0 +1,3 @@
+this is a text file
+it has the word main in it
+it has other lines too
