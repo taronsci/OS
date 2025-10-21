@@ -1,0 +1,11 @@
+all:
+
+	gcc FCFS.c Scheduling.c -o FCFS
+
+run:
+
+	./FCFS
+
+clean:
+
+	rm -f FCFS

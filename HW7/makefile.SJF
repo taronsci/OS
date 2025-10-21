@@ -1,0 +1,11 @@
+all:
+
+	gcc SJF.c Scheduling.c -o SJF
+
+run:
+
+	./SJF
+
+clean:
+
+	rm -f SJF
